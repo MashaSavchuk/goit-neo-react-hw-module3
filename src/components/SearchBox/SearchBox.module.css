@@ -1,0 +1,7 @@
+.searchInput {
+  display: flex;
+  flex-direction: column;
+  max-width: 340px;
+  padding: 10px 0;
+  margin-bottom: 20px;
+}
